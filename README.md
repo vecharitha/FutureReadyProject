@@ -23,7 +23,8 @@ HOME division tells us about the travelling places and gives us a basic knowledg
 
 
 
-![1](https://user-images.githubusercontent.com/109505020/183054018-cefa6f90-3072-4f48-9842-887176fcd51d.png)
+![image](https://user-images.githubusercontent.com/113041635/210262516-58335927-afc7-408f-b480-a731cb7a50f6.png)
+
 
 
 
