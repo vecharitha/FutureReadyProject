@@ -156,7 +156,8 @@ This is my Azure deployment page
 
 
 
-![9](https://user-images.githubusercontent.com/109505020/183056072-734d8894-a979-490b-a005-f16e7aace9bf.png)
+![image](https://user-images.githubusercontent.com/113041635/210263450-0f22437a-a4af-4d9f-abd4-f56717115c99.png)
+
 
 
 
@@ -164,4 +165,4 @@ This is my Azure deployment page
 
 
 <br>
-The link to my Future Ready Talent project is:https://white-dune-0b2e69d10.1.azurestaticapps.net
+The link to my Future Ready Talent project is:https://polite-river-0e44be710.2.azurestaticapps.net
