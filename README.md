@@ -44,7 +44,8 @@ HOME division tells us about the travelling places and gives us a basic knowledg
 
 
 
-![3](https://user-images.githubusercontent.com/109505020/183055595-8b6ffd8a-1def-473c-8984-5c59070419d9.png)
+![image](https://user-images.githubusercontent.com/113041635/210303916-45829a3a-e93c-4dc6-942b-ef9874da7314.png)
+
 
 
 
