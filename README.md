@@ -117,7 +117,8 @@ EXPLORE division shows us the services provided to the tourists.
 
 
 
-![7](https://user-images.githubusercontent.com/109505020/183055129-e3d8c6b9-69bb-4396-ace4-2ee2f8aad007.png)
+![image](https://user-images.githubusercontent.com/113041635/210304201-1fbad2d5-174d-4469-88ad-8966db424707.png)
+
 
 
 
