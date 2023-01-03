@@ -78,7 +78,7 @@ ABOUT division tells us about the beauty of tourist places and also tells about 
 
 
 
-![5](https://user-images.githubusercontent.com/109505020/183055268-7dba0cbb-2410-4230-8627-7aa297052646.png)
+![image](https://user-images.githubusercontent.com/113041635/210303721-26a3c5fa-7897-40ff-8c5e-c0a76f05edb3.png)
 
 
 
